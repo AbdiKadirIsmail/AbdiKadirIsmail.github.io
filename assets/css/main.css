@@ -2634,15 +2634,6 @@ input, select, textarea {
 			margin-right: auto;
 			border-radius: 50%;
 			margin: 1rem 0;
-			background-color: black; 
-  /* commented for demo
-  float: left;
-  margin-left: 125px;
-  margin-top: 20px;
-			margin: 4rem 0;
-			border-radius: 50%;
-			width: 100%;
-			*/
 		}
 
 			.image.main:first-child {

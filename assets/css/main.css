@@ -2628,8 +2628,8 @@ input, select, textarea {
 
 		.image.main {
 			vertical-align: middle;
-			width: 600px;
-			height: 600px;
+			width: 500px;
+			height: 500px;
 			margin-left: auto;
 			margin-right: auto;
 			border-radius: 50%;

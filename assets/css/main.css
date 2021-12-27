@@ -2627,10 +2627,10 @@ input, select, textarea {
 			}
 
 		.image.main {
-			/*display: block; test
+			/*vertical-align: middle;; test
 			width: auto;
 			height: auto;*/
-			vertical-align: middle;
+			display: block;
 			object-fit: cover;
 			max-width: 600px;
 			max-height: 600px;

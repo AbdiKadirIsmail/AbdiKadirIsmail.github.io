@@ -2627,9 +2627,6 @@ input, select, textarea {
 			}
 
 		.image.main {
-			/*vertical-align: middle;; test
-			width: auto;
-			height: auto;*/
 			display: block;
 			object-fit: cover;
 			max-width: 600px;
